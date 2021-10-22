@@ -4,9 +4,9 @@
   <img width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCx166ijuW_yTBd_sdrpwibXRzyVgyPVMvNA&usqp=CAU">
 </p>
 
-<p>A web application which you can search, buy or sell shares with current prices which provided by IEX.</p
+<p>A web application which you can search, buy or sell shares with current prices which provided by IEX.</p>
 
-  <h1> Table of Contents </h1>
+  <h2> Table of Contents </h2>
   
 
 + [Setup](#setup)
