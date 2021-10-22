@@ -38,7 +38,7 @@ Last step is that you have to initialize the Flask App.
 
 ---
 <a name="app"/>
-#### Running the Application
+####Running the Application
 
 After installing requirements and initializing app, you are ready to go!
 
@@ -55,7 +55,7 @@ or
 [Localhost](http://127.0.0.1:5000/)
 
 <a name="features"/>
-#### Features
+## Features
 
 - Search shares to see the current value 
 - Buy shares
