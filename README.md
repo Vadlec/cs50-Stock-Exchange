@@ -6,7 +6,7 @@
 
 <p>A web application which you can search, buy or sell shares with current prices which provided by IEX.</p
 
-  <h2> Table of Contents </h1>
+  <h2> Table of Contents </h2>
 
 + [Setup](#setup)
     + [Step 1](#Step1)
