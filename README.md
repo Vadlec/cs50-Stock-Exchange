@@ -41,7 +41,6 @@ Last step is that you have to initialize the Flask App.
 
 `export FLASK_APP=application.py`
 
----
 <a name="app"/>
   <h2> Running The Application </h2>
 
