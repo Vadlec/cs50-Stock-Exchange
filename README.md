@@ -3,7 +3,7 @@
 <p align="center">
   <img width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCx166ijuW_yTBd_sdrpwibXRzyVgyPVMvNA&usqp=CAU">
 </p>
-##### Table of Contents
+<h2> Table of Contents <h1>
 
 + [Setup](#setup)
     + [Step 1](#Step1)
