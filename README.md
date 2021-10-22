@@ -31,7 +31,7 @@ Last step is that you have to initialize the Flask App.
 
 ###### On Powershell
 
-`$env:FLASK_APP = "application.py"`
+`$env:FLASK_APP="application.py"`
 
 ###### On Bash
 
